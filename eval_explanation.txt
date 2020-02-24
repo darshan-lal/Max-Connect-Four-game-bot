@@ -1,0 +1,5 @@
+#1001667684
+#dnl7684
+#Darshan N. Lal
+
+The evaluation function depends upon the depth value as the depth value increases the program will search for the optimal move un till that depth limit of the min max tree. In other word as the depth value increases the chances of winning of the ai player increases. the depth function simply takes the difference of the scores according to which the program get to know that who is winning at that moment where as if the difference is not in the favour of the ai player than it plays the next move which may leads the ai player in the direction of winning the game   
